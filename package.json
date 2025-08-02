@@ -1,0 +1,15 @@
+{
+  "name": "welcome-card-api",
+  "version": "1.0.0",
+  "description": "Custom welcome card API with glowing rainbow background",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.18.2"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
